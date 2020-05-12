@@ -1,6 +1,6 @@
 # Catch Of The Day - React App
 
-![Advice App Home Page](https://raw.githubusercontent.com/superneutrino8/advice-app/master/src/images/homepage-snippet.png)
+![Catch Of The Day App Home Page](https://raw.githubusercontent.com/superneutrino8/catch-of-the-day/master/src/images/homepage.png)
 
 ## Introduction
 
